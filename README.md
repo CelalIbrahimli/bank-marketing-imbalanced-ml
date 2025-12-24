@@ -46,7 +46,7 @@ Thanks to our final model (SMOTE + XGBoost + F1-optimized threshold), we can:
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/bank-marketing-ml.git
+git clone https://github.com/CelalIbrahimli/bank-marketing-ml.git
 cd bank-marketing-ml
 
 # 2. (Optional) Create virtual environment
